@@ -1,9 +1,1 @@
-tkinter
-time
-math
-sys
-asyncio
-random
-Pillow 
-numpy
-streamlit
+
